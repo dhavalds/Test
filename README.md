@@ -33,7 +33,8 @@ Copy the HTML below to begin working with a minimal Framework document.
 </html>	
 ```
 
-### Add header
+
+## Add header
 Add following HTML in ```<body>``` tag in above template file.
 ```html
     <div>  
@@ -54,6 +55,86 @@ Add following code just before end of ```</body>``` tag.
 		});
 	</script>
 ```
+# header initiation with logo
+Replace ```$("#page-header").uxHeader();``` with following code.
+```javascript
+	$("#page-header").uxHeader({
+		headerBrandUrl : "images/PeddleLogo.png"				
+	});	
+```
+# header initiation with menu
+Update code in  ```$("#page-header").uxHeader({});``` with following code.
+
+Here headerNavContent parameter is used to create and set menu in header. It accepts an array of object. Each objects can have following keys :
+- type : ("link"/"button")
+- text : (Text to be shown on link)
+- url : (URL to be linked with link)
+- id: (Unique Id for a link)
+- cntClass : (CSS class to attach to link)
+- tooltipContent : (If tooltip is required on link, pass tootip object structure describled below else keep it blank)
+
+```javascript
+	$("#page-header").uxHeader({
+		headerBrandUrl : "images/PeddleLogo.png",
+		headerNavContent :[
+			{
+				type : "link",
+				text : "Support",
+				url : "#",
+				id : "support",			
+				cntClass : "",					
+				tooltipContent : [{
+					tooltipLinkText : "(877) 586-5692",
+					tooltipLinkUrl : "tel:8775865692",
+					tooltipLinkId : "",
+					tooltipLinkIcon : "icon-phone",
+				},
+				{
+					tooltipLinkText : "Chat",
+					tooltipLinkUrl : "#",
+					tooltipLinkId : "",
+					tooltipLinkIcon : "icon-chat-1",
+				},
+				{
+					tooltipLinkText : "Help center",
+					tooltipLinkUrl : "#",
+					tooltipLinkId : "",
+					tooltipLinkIcon : "icon-search",
+				},
+				{
+					tooltipLinkText : "Facebook",
+					tooltipLinkUrl : "#",
+					tooltipLinkId : "",
+					tooltipLinkIcon : "icon-facebook-circled",
+				},
+				{
+					tooltipLinkText : "Twitter",
+					tooltipLinkUrl : "#",
+					tooltipLinkId : "",
+					tooltipLinkIcon : "icon-twitter-circled",
+				}]		
+			},
+			{
+				type : "link",
+				text : "Log in",
+				url : "#",
+				id : "",			
+				cntClass : "",					
+				tooltipContent : []		
+			},
+			{
+				type : "button",
+				text : "Get your offer",
+				url : "#",
+				id : "",			
+				cntClass : "",					
+				tooltipContent : []					
+			}
+		]
+	});	
+```
+
+
 
 
 
