@@ -20,11 +20,6 @@ Copy the HTML below to begin working with a minimal Framework document.
     <!-- Framework core Javascript -->
     <script type="text/javascript" src="Theme/Scripts/framework.js"></script>
     
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
   </head>
 
 <body>
@@ -33,8 +28,8 @@ Copy the HTML below to begin working with a minimal Framework document.
 </html>	
 ```
 
+# Add header
 
-## Add header
 Add following HTML in ```<body>``` tag in above template file.
 ```html
     <div>  
@@ -45,7 +40,7 @@ Add following HTML in ```<body>``` tag in above template file.
 		
 	</div>
 ```
-# Basic header initiation
+### Basic header initiation
 Add following code just before end of ```</body>``` tag.
 ```html
     <script>
@@ -55,14 +50,14 @@ Add following code just before end of ```</body>``` tag.
 		});
 	</script>
 ```
-# header initiation with logo
+### Header initiation with logo
 Replace ```$("#page-header").uxHeader();``` with following code.
 ```javascript
 	$("#page-header").uxHeader({
 		headerBrandUrl : "images/PeddleLogo.png"				
 	});	
 ```
-# header initiation with menu
+### Header initiation with menu
 Update code in  ```$("#page-header").uxHeader({});``` with following code.
 
 Here headerNavContent parameter is used to create and set menu in header. It accepts an array of object. Each objects can have following keys :
