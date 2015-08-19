@@ -1,2 +1,2 @@
 msgid "UX.Common.Login.Title"
-msgstr "Login"
+msgstr "Login french"
