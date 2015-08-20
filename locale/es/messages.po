@@ -43,3 +43,7 @@ msgstr "Email"
 # PlaceHolder text for password
 msgid "UX.Common.TextBox.PlaceHolderText.Password"
 msgstr "Contraseña"
+
+# Invalid Email message
+msgid "UX.Common.Error.InvalidEmail.Text"
+msgstr "Introduzca la dirección de correo electrónico válida."
