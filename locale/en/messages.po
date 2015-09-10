@@ -22,7 +22,7 @@ msgstr "Logging in..."
 
 # Remember me text
 msgid "UX.Common.Login.RememberMe"
-msgstr "Stay logged in"
+msgstr "Stay logged in!"
 
 # Forgot Password link text
 msgid "UX.Common.Login.ForgotPassword.LinkText"
@@ -46,4 +46,4 @@ msgstr "Password"
 
 # Invalid Email message
 msgid "UX.Common.Error.InvalidEmail.Text"
-msgstr "Enter valid email address."
+msgstr "Enter valid email address!"
