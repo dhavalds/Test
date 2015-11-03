@@ -1,0 +1,376 @@
+
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.FirstName"
+msgstr "First name"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.LastName"
+msgstr "Last name"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.CompanyName"
+msgstr "Company name"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.StreetAddress"
+msgstr "Street address"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.City"
+msgstr "City"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.State"
+msgstr "State"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.Zip"
+msgstr "ZIP/Postal code"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.PhoneOptional"
+msgstr "Phone number (optional)"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.PhoneBussiness"
+msgstr "Bussiness phone number"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.Phone"
+msgstr "Phone number"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.Email"
+msgstr "Email"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.websiteOptional"
+msgstr "Website (optional)"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.Password"
+msgstr "Password"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.NewPassword"
+msgstr "New password"
+
+# Common
+msgid "UX.Site.Common.Input.Placeholder.ConfirmNewPassword"
+msgstr "Confirm new password"
+
+msgid "UX.Site.Common.Button.Okay.Text"
+msgstr "Okay"
+
+# Common
+msgid "UX.Site.Common.Input.Error.EmailCommon"
+msgstr "Enter valid email address."
+
+# Common
+msgid "UX.Site.Common.Input.Error.PasswordCommon"
+msgstr "Enter valid password."
+
+# Common
+msgid "UX.Site.Common.Input.Error.PasswordNoMatch"
+msgstr "Passwords do not match."
+
+# Common
+msgid "UX.Site.Common.Input.Error.PasswordMinLength"
+msgstr "Passwords must be six or more characters."
+
+# Common
+msgid "UX.Site.Common.Input.Error.FirstName"
+msgstr "Enter valid first name."
+
+# Common
+msgid "UX.Site.Common.Input.Error.LastName"
+msgstr "Enter valid last name."
+
+# Common
+msgid "UX.Site.Common.Input.Error.PhoneCommon"
+msgstr "Enter a valid phone number."
+
+# Common
+msgid "UX.Site.Common.Input.Error.CompanyNameCommon"
+msgstr "Enter a valid company name."
+
+# Common
+msgid "UX.Site.Common.Input.Error.AddressCommon"
+msgstr "Enter a valid address."
+
+# Common
+msgid "UX.Site.Common.Input.Error.CityCommon"
+msgstr "Enter a valid city."
+
+# Common
+msgid "UX.Site.Common.Input.Error.StateCommon"
+msgstr "Enter a valid state."
+
+# Common
+msgid "UX.Site.Common.Input.Error.ZipCommon"
+msgstr "Enter a valid ZIP code."
+
+# Common
+msgid "UX.Site.Common.Input.Error.ZipRemote"
+msgstr "Enter a valid ZIP code."
+
+# Common
+msgid "UX.Site.Common.Input.Error.Website"
+msgstr "Enter a valid web site."
+
+# Common
+msgid "UX.Site.Login.Panel.Title.LoginText"
+msgstr "Log in"
+
+# Common
+msgid "UX.Site.Login.Panel.Button.LoggingText"
+msgstr "Logging in..."
+
+# Common
+msgid "UX.Site.Login.Panel.Checkbox.RememberMe"
+msgstr "Stay logged in"
+
+# Common
+msgid "UX.Site.Login.Panel.Link.ForgotPasswordText"
+msgstr "Forgot your password?"
+
+# Common
+msgid "UX.Site.Login.Panel.Button.GoogleLoginText"
+msgstr " Continue with Google"
+
+# Common
+msgid "UX.Site.Login.Panel.Button.GoogleLoginSmallText"
+msgstr " Continue"
+
+# Common
+msgid "UX.Site.Login.Panel.Button.FacebookLoginText"
+msgstr " Continue with Facebook"
+
+# Common
+msgid "UX.Site.Login.Panel.Button.FacebookLoginSmallText"
+msgstr " Continue"
+
+# Common
+msgid "UX.Site.Common.DataTable.Table.EmptyText"
+msgstr "Sorry, no results found."
+
+# Common
+msgid "UX.Site.Common.DataTable.Pagination.FirstText"
+msgstr "First"
+
+# Common
+msgid "UX.Site.Common.DataTable.Pagination.LastText"
+msgstr "Last"
+
+# Common
+msgid "UX.Site.Common.Calendar.Days.Sunday"
+msgstr "Sunday"
+
+# Common
+msgid "UX.Site.Common.Calendar.Days.Monday"
+msgstr "Monday"
+
+# Common
+msgid "UX.Site.Common.Calendar.Days.Tuesday"
+msgstr "Tuesday"
+
+# Common
+msgid "UX.Site.Common.Calendar.Days.Wednesday"
+msgstr "Wednesday"
+
+# Common
+msgid "UX.Site.Common.Calendar.Days.Thursday"
+msgstr "Thursday"
+
+# Common
+msgid "UX.Site.Common.Calendar.Days.Friday"
+msgstr "Friday"
+
+# Common
+msgid "UX.Site.Common.Calendar.Days.Saturday"
+msgstr "Saturday"
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysMin.Sunday"
+msgstr "SUN"
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysMin.Monday"
+msgstr "MON"
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysMin.Tuesday"
+msgstr "TUE"
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysMin.Wednesday"
+msgstr "WED"
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysMin.Thursday"
+msgstr "THU"
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysMin.Friday"
+msgstr "FRI"
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysMin.Saturday"
+msgstr "SAT"
+
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysShort.Sunday"
+msgstr "Sun"
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysShort.Monday"
+msgstr "Mon"
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysShort.Tuesday"
+msgstr "Tue"
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysShort.Wednesday"
+msgstr "Wed"
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysShort.Thursday"
+msgstr "Thu"
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysShort.Friday"
+msgstr "Fri"
+
+# Common
+msgid "UX.Site.Common.Calendar.DaysShort.Saturday"
+msgstr "Sat"
+
+
+# Common
+msgid "UX.Site.Common.Calendar.TimeMeridiem.AM"
+msgstr "am"
+
+# Common
+msgid "UX.Site.Common.Calendar.TimeMeridiem.PM"
+msgstr "pm"
+
+# Common
+msgid "UX.Site.Common.Calendar.Months.January"
+msgstr "January"
+
+# Common
+msgid "UX.Site.Common.Calendar.Months.February"
+msgstr "February"
+
+# Common
+msgid "UX.Site.Common.Calendar.Months.March"
+msgstr "March"
+
+# Common
+msgid "UX.Site.Common.Calendar.Months.April"
+msgstr "April"
+
+# Common
+msgid "UX.Site.Common.Calendar.Months.May"
+msgstr "May"
+
+# Common
+msgid "UX.Site.Common.Calendar.Months.June"
+msgstr "June"
+
+# Common
+msgid "UX.Site.Common.Calendar.Months.July"
+msgstr "July"
+
+# Common
+msgid "UX.Site.Common.Calendar.Months.August"
+msgstr "August"
+
+# Common
+msgid "UX.Site.Common.Calendar.Months.September"
+msgstr "September"
+
+# Common
+msgid "UX.Site.Common.Calendar.Months.October"
+msgstr "October"
+
+# Common
+msgid "UX.Site.Common.Calendar.Months.November"
+msgstr "November"
+
+# Common
+msgid "UX.Site.Common.Calendar.Months.December"
+msgstr "December"
+
+# Common
+msgid "UX.Site.Common.Calendar.MonthsShort.January"
+msgstr "Jan"
+
+# Common
+msgid "UX.Site.Common.Calendar.MonthsShort.February"
+msgstr "Feb"
+
+# Common
+msgid "UX.Site.Common.Calendar.MonthsShort.March"
+msgstr "Mar"
+
+# Common
+msgid "UX.Site.Common.Calendar.MonthsShort.April"
+msgstr "Apr"
+
+# Common
+msgid "UX.Site.Common.Calendar.MonthsShort.May"
+msgstr "May"
+
+# Common
+msgid "UX.Site.Common.Calendar.MonthsShort.June"
+msgstr "Jun"
+
+# Common
+msgid "UX.Site.Common.Calendar.MonthsShort.July"
+msgstr "Jul"
+
+# Common
+msgid "UX.Site.Common.Calendar.MonthsShort.August"
+msgstr "Aug"
+
+# Common
+msgid "UX.Site.Common.Calendar.MonthsShort.September"
+msgstr "Sep"
+
+# Common
+msgid "UX.Site.Common.Calendar.MonthsShort.October"
+msgstr "Oct"
+
+# Common
+msgid "UX.Site.Common.Calendar.MonthsShort.November"
+msgstr "Nov"
+
+# Common
+msgid "UX.Site.Common.Calendar.MonthsShort.December"
+msgstr "Dec"
+
+
+
+# Common
+msgid "UX.Site.Common.Calendar.Suffix.ST"
+msgstr "st"
+
+# Common
+msgid "UX.Site.Common.Calendar.Suffix.ND"
+msgstr "nd"
+
+# Common
+msgid "UX.Site.Common.Calendar.Suffix.RD"
+msgstr "rd"
+
+# Common
+msgid "UX.Site.Common.Calendar.Suffix.TH"
+msgstr "th"
+
+# Common
+msgid "UX.Site.Common.Calendar.Today.Text"
+msgstr "Today"
