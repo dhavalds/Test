@@ -14,7 +14,7 @@ msgstr "Log in"
 
 # Login Button text
 msgid "UX.Common.Login.ButtonText"
-msgstr "Login button"
+msgstr "Login button 123"
 
 # Login Button logging text
 msgid "UX.Common.Login.ButtonText.Logging"
