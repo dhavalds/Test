@@ -1,5 +1,5 @@
 copy /B ^
-publisher.po^
-+common.po^
- ..\locale\en\messages.po
+Publisher\en\publisher.po^
++Common\en\common.po^
+ ..\..\..\..\locale\en\messages.po
 
