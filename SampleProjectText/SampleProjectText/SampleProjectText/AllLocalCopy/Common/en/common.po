@@ -10,11 +10,11 @@ msgstr ""
 
 # Login
 msgid "UX.Common.Login.Title"
-msgstr "Log in1"
+msgstr "Log in2"
 
 # Login Button text
 msgid "UX.Common.Login.ButtonText"
-msgstr "Login button"
+msgstr "Login button 12"
 
 # Login Button logging text
 msgid "UX.Common.Login.ButtonText.Logging"
@@ -22,7 +22,7 @@ msgstr "Logging in..."
 
 # Remember me text
 msgid "UX.Common.Login.RememberMe"
-msgstr "Stay logged in"
+msgstr "Stay logged in!"
 
 # Forgot Password link text
 msgid "UX.Common.Login.ForgotPassword.LinkText"
@@ -46,4 +46,4 @@ msgstr "Password"
 
 # Invalid Email message
 msgid "UX.Common.Error.InvalidEmail.Text"
-msgstr "Enter valid email address."
+msgstr "Enter valid email address!"
