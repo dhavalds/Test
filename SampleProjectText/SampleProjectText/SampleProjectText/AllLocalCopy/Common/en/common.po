@@ -10,7 +10,7 @@ msgstr ""
 
 # Login
 msgid "UX.Common.Login.Title"
-msgstr "Log in this is login"
+msgstr "Log in this is login page"
 
 # Login Button text
 msgid "UX.Common.Login.ButtonText"
@@ -47,5 +47,3 @@ msgstr "Password"
 # Invalid Email message
 msgid "UX.Common.Error.InvalidEmail.Text"
 msgstr "Enter valid email address!"
-
-
