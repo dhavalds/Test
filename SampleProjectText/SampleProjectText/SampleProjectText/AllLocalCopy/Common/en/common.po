@@ -8,9 +8,25 @@ msgstr ""
 "X-Generator: i18n.POTGenerator\n"
 "Content-Type: text/plain; charset=UTF-8"
 
+# Login
+msgid "UX.Common.Login.Title"
+msgstr "Log in5"
+
+# Login Button text
+msgid "UX.Common.Login.ButtonText"
+msgstr "Login button 12"
+
 # Login Button logging text
 msgid "UX.Common.Login.ButtonText.Logging"
 msgstr "Logging in..."
+
+# Remember me text
+msgid "UX.Common.Login.RememberMe"
+msgstr "Stay logged in!"
+
+# Forgot Password link text
+msgid "UX.Common.Login.ForgotPassword.LinkText"
+msgstr "Forgot your password?"
 
 # Google Login Button text
 msgid "UX.Common.Login.GoogleLogin.ButtonText"
@@ -31,11 +47,3 @@ msgstr "Password"
 # Invalid Email message
 msgid "UX.Common.Error.InvalidEmail.Text"
 msgstr "Enter valid email address!"
-
-# Google Login Button text
-msgid "UX.Common.Login.GoogleLogin.ButtonText"
-msgstr "Continue to Google"
-
-# Login Button logging text
-msgid "UX.Common.Login.FacebookLogin.ButtonText"
-msgstr "Continue to Facebook"
