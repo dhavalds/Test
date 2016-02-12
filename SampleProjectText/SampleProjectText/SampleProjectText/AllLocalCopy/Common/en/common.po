@@ -10,7 +10,7 @@ msgstr ""
 
 # Login
 msgid "UX.Common.Login.Title"
-msgstr "Log in7"
+msgstr "Log in this is login"
 
 # Login Button text
 msgid "UX.Common.Login.ButtonText"
