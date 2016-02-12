@@ -7,3 +7,33 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: i18n.POTGenerator\n"
 "Content-Type: text/plain; charset=UTF-8"
+
+msgid "UX.Common.Login.Title"
+msgstr "S'identifier"
+
+msgid "UX.Common.Login.ButtonText"
+msgstr "Bouton Connexion"
+
+msgid "UX.Common.Login.ButtonText.Logging"
+msgstr "Connexion..."
+
+msgid "UX.Common.Login.RememberMe"
+msgstr "Rester connecté"
+
+msgid "UX.Common.Login.ForgotPassword.LinkText"
+msgstr "Mot de passe oublié?"
+
+msgid "UX.Common.Login.GoogleLogin.ButtonText"
+msgstr "Continuer avec Google"
+
+msgid "UX.Common.Login.FacebookLogin.ButtonText"
+msgstr "Continuer avec Facebook"
+
+msgid "UX.Common.TextBox.PlaceHolderText.Email"
+msgstr "Email"
+
+msgid "UX.Common.TextBox.PlaceHolderText.Password"
+msgstr "Mot de passe"
+
+msgid "UX.Common.Error.InvalidEmail.Text"
+msgstr "Entrez l'adresse e-mail valide."
