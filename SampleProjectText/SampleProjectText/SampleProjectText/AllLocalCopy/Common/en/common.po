@@ -10,7 +10,7 @@ msgstr ""
 
 # Login
 msgid "UX.Common.Login.Title"
-msgstr "Log in4"
+msgstr "Log in5"
 
 # Login Button text
 msgid "UX.Common.Login.ButtonText"
@@ -26,7 +26,15 @@ msgstr "Stay logged in!"
 
 # Forgot Password link text
 msgid "UX.Common.Login.ForgotPassword.LinkText"
-msgstr "Forgot your password check it?"
+msgstr "Forgot your password?"
+
+# Google Login Button text
+msgid "UX.Common.Login.GoogleLogin.ButtonText"
+msgstr "Continue with Google"
+
+# Login Button logging text
+msgid "UX.Common.Login.FacebookLogin.ButtonText"
+msgstr "Continue with Facebook"
 
 # PlaceHolder text for email
 msgid "UX.Common.TextBox.PlaceHolderText.Email"
