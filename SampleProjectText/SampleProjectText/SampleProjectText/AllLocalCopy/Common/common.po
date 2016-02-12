@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-08-19 15:24+05:30\n"
+"PO-Revision-Date: 2015-08-19 15:24+05:30\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: i18n.POTGenerator\n"
+"Content-Type: text/plain; charset=UTF-8"
+
+# Login
+msgid "UX.Common.Login.Title"
+msgstr "Log in this is login page"
+
+# Login Button text
+msgid "UX.Common.Login.ButtonText"
+msgstr "Login button 12"
+
+# Login Button logging text
+msgid "UX.Common.Login.ButtonText.Logging"
+msgstr "Logging in..."
+
+# Remember me text
+msgid "UX.Common.Login.RememberMe"
+msgstr "Stay logged in!"
+
+# Forgot Password link text
+msgid "UX.Common.Login.ForgotPassword.LinkText"
+msgstr "Forgot your password check it?"
+
+# Google Login Button text
+msgid "UX.Common.Login.GoogleLogin.ButtonText"
+msgstr "Continue with Google"
+
+# Login Button logging text
+msgid "UX.Common.Login.FacebookLogin.ButtonText"
+msgstr "Continue with Facebook"
+
+# PlaceHolder text for email
+msgid "UX.Common.TextBox.PlaceHolderText.Email"
+msgstr "Email"
+
+# PlaceHolder text for password
+msgid "UX.Common.TextBox.PlaceHolderText.Password"
+msgstr "Password"
+
+# Invalid Email message
+msgid "UX.Common.Error.InvalidEmail.Text"
+msgstr "Enter valid email address!"
