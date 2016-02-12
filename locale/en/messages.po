@@ -16,34 +16,10 @@ msgstr "Log in"
 msgid "UX.Common.Login.ButtonText"
 msgstr "Login button 12"
 
-# Login Button logging text
-msgid "UX.Common.Login.ButtonText.Logging"
-msgstr "Logging in..."
-
 # Remember me text
 msgid "UX.Common.Login.RememberMe"
 msgstr "Stay logged in!"
 
 # Forgot Password link text
 msgid "UX.Common.Login.ForgotPassword.LinkText"
-msgstr "Forgot your password?"
-
-# Google Login Button text
-msgid "UX.Common.Login.GoogleLogin.ButtonText"
-msgstr "Continue with Google"
-
-# Login Button logging text
-msgid "UX.Common.Login.FacebookLogin.ButtonText"
-msgstr "Continue with Facebook"
-
-# PlaceHolder text for email
-msgid "UX.Common.TextBox.PlaceHolderText.Email"
-msgstr "Email"
-
-# PlaceHolder text for password
-msgid "UX.Common.TextBox.PlaceHolderText.Password"
-msgstr "Password"
-
-# Invalid Email message
-msgid "UX.Common.Error.InvalidEmail.Text"
-msgstr "Enter valid email address!"
+msgstr "Forgot your password check it?"
