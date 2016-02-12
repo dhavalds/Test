@@ -30,7 +30,7 @@ msgstr "Forgot your password?"
 
 # Google Login Button text
 msgid "UX.Common.Login.GoogleLogin.ButtonText"
-msgstr "Continue with Google"
+msgstr "Continue with Google button"
 
 # Login Button logging text
 msgid "UX.Common.Login.FacebookLogin.ButtonText"

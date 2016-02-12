@@ -24,6 +24,10 @@ msgstr "Iniciar sesión..."
 msgid "UX.Common.Login.RememberMe"
 msgstr "Permanecer conectado"
 
+# Forgot Password link text
+msgid "UX.Common.Login.ForgotPassword.LinkText"
+msgstr "Olvidaste tu contraseña?"
+
 # Google Login Button text
 msgid "UX.Common.Login.GoogleLogin.ButtonText"
 msgstr "Continúe con Google"
