@@ -26,7 +26,7 @@ msgstr "Stay logged in!"
 
 # Forgot Password link text
 msgid "UX.Common.Login.ForgotPassword.LinkText"
-msgstr "Forgot your password check it?"
+msgstr "Forgot your password?"
 
 # Google Login Button text
 msgid "UX.Common.Login.GoogleLogin.ButtonText"
