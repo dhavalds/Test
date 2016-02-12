@@ -8,6 +8,10 @@ msgstr ""
 "X-Generator: i18n.POTGenerator\n"
 "Content-Type: text/plain; charset=UTF-8"
 
+# Login
+msgid "UX.Common.Login.Title"
+msgstr "Iniciar Sesión"
+
 # Login Button text
 msgid "UX.Common.Login.ButtonText"
 msgstr "Botón Login"
@@ -19,10 +23,6 @@ msgstr "Iniciar sesión..."
 # Remember me text
 msgid "UX.Common.Login.RememberMe"
 msgstr "Permanecer conectado"
-
-# Forgot Password link text
-msgid "UX.Common.Login.ForgotPassword.LinkText"
-msgstr "Olvidaste tu contraseña?"
 
 # Google Login Button text
 msgid "UX.Common.Login.GoogleLogin.ButtonText"
