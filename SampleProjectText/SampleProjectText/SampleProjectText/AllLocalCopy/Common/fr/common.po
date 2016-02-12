@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8"
 
 msgid "UX.Common.Login.Title"
-msgstr "S'identifier"
+msgstr "s'identifier 123"
 
 msgid "UX.Common.Login.ButtonText"
 msgstr "Bouton Connexion"
