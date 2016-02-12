@@ -8,10 +8,6 @@ msgstr ""
 "X-Generator: i18n.POTGenerator\n"
 "Content-Type: text/plain; charset=UTF-8"
 
-# Login
-msgid "UX.Common.Login.Title"
-msgstr "s'identifier 123"
-
 # Login Button text
 msgid "UX.Common.Login.ButtonText"
 msgstr "Bouton Connexion"
