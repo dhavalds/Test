@@ -12,10 +12,6 @@ msgstr ""
 msgid "UX.Common.Login.Title"
 msgstr "Iniciar Sesión"
 
-# Login Button text
-msgid "UX.Common.Login.ButtonText"
-msgstr "Botón Login"
-
 # Login Button logging text
 msgid "UX.Common.Login.ButtonText.Logging"
 msgstr "Iniciar sesión..."

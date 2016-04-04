@@ -12,10 +12,6 @@ msgstr ""
 msgid "UX.Common.Login.Title"
 msgstr "s'identifier 123"
 
-# Login Button text
-msgid "UX.Common.Login.ButtonText"
-msgstr "Bouton Connexion"
-
 # Login Button logging text
 msgid "UX.Common.Login.ButtonText.Logging"
 msgstr "Connexion..."
