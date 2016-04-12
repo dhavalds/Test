@@ -18,7 +18,7 @@ msgstr "Manage users"
 
 # Manage users
 msgid "UX.Publisher.ManageUsers.Page.Title.ManageUsersPageTitle"
-msgstr "Manage Users | Peddle Publisher"
+msgstr "Manage Users | Peddle Publisher12"
 
 # Manage users
 msgid "UX.Publisher.ManageUsers.Panel.Button.AddUser"
